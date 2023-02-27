@@ -24,7 +24,6 @@
 
     gtag('config', 'G-JJFW6TJCEY');
     </script>
-    <script src="https://fanma.eu.org/js/pjax/pjax.js"></script>
     <link href="https://npm.elemecdn.com/artalk@2.4.4/dist/Artalk.css" rel="stylesheet">
     <script id="talk" type="text/javascript" src="https://npm.elemecdn.com/artalk@2.4.4/dist/Artalk.js" defer></script>
 </head><body>
@@ -432,19 +431,6 @@ document.addEventListener("DOMContentLoaded", function(){
 
 </div>
 </div>
-            <script>let pjaxSelectors = ["head > title","head > script","#content",".toc-c",".nav-links",".fanma-talk","#talk"]
-                var pjax = new Pjax({
-                  elements: 'a:not([target="_blank"])',
-                  selectors: pjaxSelectors,
-                  cacheBust: false,
-                  analytics: false,
-                  scrollRestoration: false
-                })
-                document.addEventListener('pjax:error', (e) => {
-                  if (e.request.status === 404) {
-                    pjax.loadUrl('/404.html')
-                  }
-                })</script>
         </div>
     </body>
 </html>
