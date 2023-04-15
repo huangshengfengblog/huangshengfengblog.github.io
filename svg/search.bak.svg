@@ -1,0 +1,77 @@
+<svg width="1080" height="998" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-name="Layer 1">
+ <defs>
+  <clipPath id="42e7b1d1-2be2-47b0-aacb-a853df270819" transform="translate(-179 -60.54)">
+   <rect id="cf34cfb5-9399-4bae-9cea-d47bbef6cb3a" data-name="&lt;Rectangle&gt;" x="381.54" y="322.72" width="143.79" height="96.93" fill="#fff"/>
+  </clipPath>
+  <clipPath id="f66b8fac-771d-49bf-85c7-4ce29a79f723" transform="translate(-179 -60.54)">
+   <rect id="7439734d-5f7c-428f-88ce-e68b86a45c07" data-name="&lt;Rectangle&gt;" x="381.54" y="529.42" width="143.79" height="96.93" fill="#fff"/>
+  </clipPath>
+  <linearGradient id="a91ba363-77be-43f7-9cf6-91c4a3880d9c" x1="0.5" y1="1" x2="0.5" y2="0">
+   <stop offset="0" stop-color="gray" stop-opacity="0.25"/>
+   <stop offset="0.54" stop-color="gray" stop-opacity="0.12"/>
+   <stop offset="1" stop-color="gray" stop-opacity="0.1"/>
+  </linearGradient>
+  <linearGradient id="598f8edf-c762-4b18-b52d-250fc678075a" x1="688.76" y1="765.86" x2="688.76" y2="163.26" gradientTransform="translate(1142.22 -188.53) rotate(90)" xlink:href="#a91ba363-77be-43f7-9cf6-91c4a3880d9c"/>
+  <linearGradient id="013b841e-9a42-49b8-8a36-6db9ed002b72" x1="688.18" y1="568.49" x2="688.18" y2="409.67" gradientTransform="translate(1161.39 -164.01) rotate(90)" xlink:href="#a91ba363-77be-43f7-9cf6-91c4a3880d9c"/>
+  <linearGradient id="043d467e-585e-47c7-bb2c-06dd6f5be04b" x1="0.4998" y1="0.99949" x2="0.4998" y2="0">
+   <stop offset="0" stop-opacity="0.12"/>
+   <stop offset="0.55" stop-opacity="0.09"/>
+   <stop offset="1" stop-opacity="0.02"/>
+  </linearGradient>
+ </defs>
+ <title>file searching</title>
+ <g>
+  <title>Layer 1</title>
+  <rect x="279.99999" y="149" width="520" height="700" fill="#e0e0e0" id="svg_2"/>
+  <rect x="288.72341" y="159" width="500" height="680" fill="#ffffff" id="svg_3"/>
+  <g clip-path="url(#42e7b1d1-2be2-47b0-aacb-a853df270819)" id="svg_18"/>
+  <g opacity="0.5" id="svg_29">
+   <rect x="376.36" y="276.01" width="602.6" height="448.44" transform="translate(-124.09 1006.82)" fill="url(#598f8edf-c762-4b18-b52d-250fc678075a)" id="svg_30"/>
+  </g>
+  <g opacity="0.5" id="svg_40">
+   <rect x="592.89" y="385.78" width="158.82" height="276.77" transform="translate(-151.88 1020.84)" fill="url(#013b841e-9a42-49b8-8a36-6db9ed002b72)" id="svg_41"/>
+  </g>
+  <path d="m638.02994,382.86714a155.89,155.89 0 0 0 -223.11,-1.68c-59,59.48 -60,156.33 -2.29,217.07a155.89,155.89 0 0 0 199.9,22.06l112.69,117.21a7.59,7.59 0 0 0 10.73,0.21l28.08,-27a7.59,7.59 0 0 0 0.21,-10.73l-112.66,-117.2a155.9,155.9 0 0 0 -13.55,-199.94zm-35.1,188.45a111.5,111.5 0 1 1 3.1,-157.66a111.5,111.5 0 0 1 -3.1,157.66z" fill="#e0e0e0" id="svg_48" opacity="0.58"/>
+  <path d="m685.49,487.6c-12.54,0 -12.56,19.49 0,19.49s12.56,-19.49 0,-19.49z" transform="translate(0 -0.425532) translate(0.425532 0) translate(-0.425532 0) translate(-0.425532 0) translate(-58.5714 24.2857) translate(-179 -60.54)" fill="url(#043d467e-585e-47c7-bb2c-06dd6f5be04b)" id="svg_49"/>
+  <g id="svg_92">
+   <rect x="352" y="211.67994" width="320" height="4.67" fill="#e0e0e0" id="svg_4"/>
+   <rect x="352" y="241.21983" width="152" height="4.67" fill="#08a0e5" opacity="0.7" id="svg_5"/>
+   <rect x="352" y="391.21983" width="376" height="5" fill="#e0e0e0" id="svg_15"/>
+   <rect x="352" y="271.21983" width="258" height="4.67" fill="#e0e0e0" id="svg_63"/>
+   <rect x="352" y="301.21983" width="108" height="4.67" fill="#f596aa" id="svg_65"/>
+   <rect x="352" y="331.21983" width="258" height="4.67" fill="#e0e0e0" id="svg_73"/>
+   <rect x="352" y="361.21983" width="200" height="4.67" fill="#3ad29f" id="svg_74"/>
+   <rect x="352" y="421.21983" width="376" height="5" fill="#e0e0e0" id="svg_75"/>
+   <rect x="352" y="481.21983" width="376" height="5" fill="#e0e0e0" id="svg_76"/>
+   <rect x="352" y="451.21983" width="376" height="5" fill="#e0e0e0" id="svg_77"/>
+   <rect x="352" y="511.21983" width="376" height="5" fill="#e0e0e0" id="svg_78"/>
+   <rect x="352" y="541.21983" width="376" height="5" fill="#e0e0e0" id="svg_79"/>
+   <rect x="352" y="571.21983" width="376" height="5" fill="#e0e0e0" id="svg_80"/>
+   <rect x="352" y="601.21983" width="376" height="5" fill="#e0e0e0" id="svg_81"/>
+   <rect x="352" y="631.21983" width="376" height="5" fill="#e0e0e0" id="svg_82"/>
+   <rect x="352" y="661.21983" width="376" height="5" fill="#e0e0e0" id="svg_83"/>
+   <rect x="352" y="691.21983" width="376" height="5" fill="#e0e0e0" id="svg_84"/>
+   <rect x="352" y="721.21983" width="376" height="5" fill="#e0e0e0" id="svg_85"/>
+   <rect x="352" y="751.21983" width="376" height="5" fill="#e0e0e0" id="svg_86"/>
+   <rect x="667.54129" y="781.32009" width="58" height="5" fill="#08a0e5" id="svg_88"/>
+   <rect x="510.04764" y="781.32009" width="58" height="5" fill="#08a0e5" id="svg_89"/>
+   <rect x="352" y="781.32009" width="58" height="5" fill="#08a0e5" id="svg_90"/>
+  </g>
+  <path d="m447.67277,444.08241c-12.54,0 -12.56,19.49 0,19.49s12.56,-19.49 0,-19.49z" fill="#f596aa" id="svg_12" stroke="null"/>
+  <path d="m926.67277,162.08241c-12.54,0 -12.56,19.49 0,19.49s12.56,-19.49 0,-19.49z" fill="#08a0e5" id="svg_13" stroke="null"/>
+  <path d="m645.57016,375.51857a155.89,155.89 0 0 0 -223.11,-1.68c-59,59.48 -60,156.33 -2.29,217.07a155.89,155.89 0 0 0 199.9,22.05l112.68,117.22a7.59,7.59 0 0 0 10.73,0.21l28.08,-27a7.59,7.59 0 0 0 0.21,-10.73l-112.69,-117.21a155.9,155.9 0 0 0 -13.51,-199.93zm-35.1,188.37a111.5,111.5 0 1 1 3.1,-157.66a111.5,111.5 0 0 1 -3.1,157.66z" fill="#08a0e5" id="svg_51"/>
+  <path d="m533.26209,392.67263c-33.75,-0.76 -64.46,16.17 -80.79,41.73c-5.33,8.34 9.8,15.71 15.1,7.41c13.52,-21.16 39.21,-34.6 67,-33.9c29.12,0.73 55.62,17.39 69.65,40.51c5.32,8.77 19.27,0.8 14,-7.92c-17.06,-28 -50.1,-47 -84.96,-47.83z" fill="#e0e0e0" id="svg_50" opacity="0.58"/>
+  <path d="m533.17804,383.47192c-33.75,-0.76 -64.46,16.17 -80.79,41.73c-5.33,8.34 9.8,15.71 15.1,7.41c13.52,-21.16 39.21,-34.6 67,-33.9c29.12,0.73 55.62,17.39 69.65,40.51c5.32,8.77 19.27,0.8 14,-7.92c-17.09,-28.08 -50.09,-47.08 -84.96,-47.83z" fill="#08a0e5" id="svg_53"/>
+  <text fill="#ff0000" x="677.69754" y="300.45487" id="svg_95" stroke-width="0" font-size="22" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">☀</text>
+  <text font-style="normal" font-weight="bold" fill="#191919" x="217.80651" y="239.08702" id="svg_97" stroke-width="0" font-size="32" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="null">✎</text>
+  <text fill="#f596aa" stroke-width="0" x="853.45497" y="415.66693" id="svg_9" font-size="28" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">✿</text>
+  <text fill="#f596aa" stroke-width="0" x="381.45497" y="908.66693" id="svg_1" font-size="28" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">✿</text>
+  <text fill="#0891b2" x="752.4248" y="561.5458" id="svg_11" stroke-width="0" font-size="26" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">✪</text>
+  <text fill="#3ad29f" x="150.4248" y="671.5458" id="svg_99" stroke-width="0" font-size="26" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">✪</text>
+  <text fill="#3ad29f" x="656.78842" y="985.364" id="svg_100" stroke-width="0" font-size="32" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">♻︎</text>
+  <text fill="#f596aa" x="70.243" y="388.09126" id="svg_8" stroke-width="0" font-size="28" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="null">♥</text>
+  <text fill="#f596aa" x="991.243" y="707.09126" id="svg_101" stroke-width="0" font-size="28" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve">♥</text>
+  <text fill="#08a0e5" stroke-width="0" x="697.27319" y="22.12146" id="svg_96" font-size="22" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">★</text>
+  <text fill="#08a0e5" stroke-width="0" x="107.27319" y="101.12146" id="svg_10" font-size="22" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" font-weight="bold">★</text>
+ </g>
+</svg>
